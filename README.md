@@ -11,6 +11,6 @@ Dependencies :
   cloud_firestore: ^4.15.9 // flutter package to intagrate flutter project to firebase realtime database 'firestore'
   awesome_dialog: ^3.2.0 // flutter package facilates building awesome dialoge boxes
 
-Tips : the import paths are relative so If you want to use directly the code you can just replace the provided code folders in your project and run 'flutterfire config' commande to integrate it with firebase services.
+Tips : the import paths are relative so If you want to use directly the code you can just replace the provided code folders in your project and run 'flutterfire config' and 'flutter pub get' commands to integrate it with firebase services and install all dependencies (resp)
 
 website URL : https://ouchenemohamednourelislem.web.app/
